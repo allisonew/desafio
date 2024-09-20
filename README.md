@@ -6,7 +6,7 @@ Resposta das perguntas:
 a = 9(Incrementa 2)
 b=128(multiplos de 2),
 c=49(posição²)
-d = 100(temos um incremento de 8 porém começamos com um aumento de 12)
+d = 100(temos um incremento de 8,porém começamos com um aumento de 12)
 e= 13(Fibonacci) 
 f=200(todos os numeros começam com a letra "D")
 
